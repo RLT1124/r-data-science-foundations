@@ -23,11 +23,6 @@ A comprehensive collection of R projects demonstrating fundamental data science 
 - Advanced chart types and themes
 - Data storytelling through visualization
 
-### 4. Interactive Visualizations (`HtmlWidget/`)
-- **Interactive maps with Leaflet**
-- Dynamic plots and dashboards
-- HTML widgets for web integration
-- Real-time data visualization
 
 ## 🛠️ Technologies Used
 
